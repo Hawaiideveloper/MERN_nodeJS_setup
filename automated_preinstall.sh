@@ -7,12 +7,12 @@ wait 5
 
 
 #Ubuntu Only
-# sudo apt update -y
-# sudo apt install nodejs -y
+ sudo apt update -y
+ sudo apt install nodejs -y
 
 
 #Mac_OSx Only
-brew install node
+#brew install node
 
 
 # nvm install 10.0.6    # Install node version 10.0.0
