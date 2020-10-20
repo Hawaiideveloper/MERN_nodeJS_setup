@@ -7,7 +7,7 @@ echo "make sure you are in the correct director (folder)"
 source /home/$USER/.bashrc
 
 # Ubuntu
-#sudo apt install npm -y
+sudo apt install npm -y
 
 
 
