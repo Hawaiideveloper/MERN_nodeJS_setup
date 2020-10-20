@@ -9,3 +9,5 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Test Example app listening at http://localhost:${port}`)
 })
+
+#works on both mac and ubuntu
