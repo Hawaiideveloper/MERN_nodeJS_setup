@@ -1,9 +1,12 @@
 #!/bin/bash
 
 
+ubuntu_Installer="https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/ubuntu_installer"
 
-curl -LJO https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/ubuntu_installer/automated_preinstall.sh
-curl -LJO https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/ubuntu_installer/post_installer.sh
+
+curl -LJO $ubuntu_Installer/automated_preinstall.sh
+curl -LJO $ubuntu_Installer/post_installer.sh
+curl -LJO $ubuntu_Installer/database_installer-ubuntu.sh
 
 
 
