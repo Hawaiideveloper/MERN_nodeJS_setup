@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+macOSX_installer="https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/macOSX_installer"
+
 echo "this is your username"
 whoami
 wait 5
