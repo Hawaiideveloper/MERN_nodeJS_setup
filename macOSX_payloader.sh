@@ -4,6 +4,10 @@ macOSX_Installer="https://github.com/Hawaiideveloper/MERN_nodeJS_setup/macOSX_in
 
 
 
+
+#curl -fsSL https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/macOSX_installer/macOSX_payloader.sh
+
+
 #Downloads the file so the user can examine later
 curl -LJO $macOSX_Installer/automated_preinstall.sh
 curl -LJO $macOSX_Installer/post_installer.sh
