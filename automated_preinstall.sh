@@ -1,5 +1,14 @@
 #!/bin/bash
 
+
+
+curl -LJO https://raw.github.com/Hawaiideveloper/MERN_nodeJS_setup/ubuntu_installer/automated_preinstall.sh
+
+
+
+
+
+
 echo "this is your username"
 whoami
 wait 5
