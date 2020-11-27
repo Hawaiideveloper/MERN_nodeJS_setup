@@ -1,10 +1,8 @@
 #!/bin/bash
 
 echo "post installer"
-echo "make sure you are in the correct director (folder)"
+echo "make sure you are in the correct directory (folder)"
 
-
-source /home/$USER/.bashrc
 
 # Ubuntu
 sudo apt install npm -y
